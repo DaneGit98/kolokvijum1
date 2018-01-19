@@ -20,6 +20,7 @@ public class Primer {
 		return count;
 	}
 	// test: x = [-3, -2, 0, 1, 4]; Expected = 3
+	// popravljen oddOrPos
 
 }
 
